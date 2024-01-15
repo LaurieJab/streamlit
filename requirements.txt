@@ -2,4 +2,3 @@ numpy==1.23.5
 seaborn==0.12.2
 pandas==1.5.3
 streamlit==1.29.0
-google.colab==1.0.0
